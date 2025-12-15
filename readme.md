@@ -22,17 +22,17 @@ Incluye configuración de CORS, middlewares personalizados y estructura por capa
 
 ├── src/
 
-│   ├── controllers/
+     ├── controllers/
+ 
+     └── data/
 
-|   └── data/
+     ├── routes/
 
-│   ├── routes/
+     ├── services/
 
-│   ├── services/
+     └── middleware/
 
-│   └── middleware/
-
-|   └── models/
+     └── models/
 
 ├── .env
 
