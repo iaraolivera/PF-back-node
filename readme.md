@@ -19,18 +19,27 @@ Incluye configuración de CORS, middlewares personalizados y estructura por capa
 
 📁 **Estructura del proyecto**
 
-├── public/
-│   └── index.html
+
 ├── src/
+
 │   ├── controllers/
+
 |   └── data/
+
 │   ├── routes/
+
 │   ├── services/
+
 │   └── middleware/
+
 |   └── models/
+
 ├── .env
+
 ├── index.js
+
 └── package.json
+
 
 ▶️ **Cómo ejecutar el proyecto**
 
