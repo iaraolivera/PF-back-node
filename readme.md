@@ -1,6 +1,6 @@
 🚀 API REST – Servidor de Productos
 
-API REST desarrollada con Node.js + Express, que permite manejar autenticación con JWT y un CRUD de productos.
+API REST desarrollada con Node.js + Express, que permite manejar autenticación con jsonwebtoken y un CRUD de productos.
 Incluye configuración de CORS, middlewares personalizados y estructura por capas.
 
 🛠️ **Tecnologías usadas**
